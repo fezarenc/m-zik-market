@@ -1,0 +1,30 @@
+.align-center {
+    text-align: center;
+}
+
+.align-left {
+    text-align: left;
+}
+
+ul, ol {
+    list-style-position: inside;
+}
+
+img {
+    height: 300px;
+    weight: 300px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #EEEEEE;
+}
+
+h1, h2, h3, a {
+    color: #FF597B;
+}
+
+p, li {
+    color: #FF8E9E;
+}
+
